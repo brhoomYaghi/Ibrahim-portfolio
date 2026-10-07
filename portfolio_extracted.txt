@@ -1,0 +1,161 @@
+=== PAGE 1 ===
+Ibrahim Yaghi
+AI Platform Engineer & Agentic Systems Architect
+ibrahem.yaghi@gmail.com · +962 78 503 1314 · linkedin.com/in/ibrahim-yaghi ·
+Amman, Jordan
+ ~4M JOD
+ Cost Savings Delivered
+ ■ Best Digital Transformation
+Initiative in Telecom — Global
+ Economics 2025
+I build AI systems that actually ship — autonomous agents, intelligent pipelines, and developer platforms running in
+production at Zain Jordan, one of the region's leading telecoms. Below is a portfolio of the AI projects I designed,
+engineered, and delivered.
+Agentic AI Platform — Zain Jordan
+ 01
+Agent Orchestrator (In-House)
+Custom orchestration engine built from scratch to manage all internal agents and Python backends
+   Designed and built a proprietary orchestration layer from scratch — no third-party frameworks — to route user
+requests across multiple specialized agents.
+   Unified interface for all internal AI services, connecting Python backends, Redis message queues, and a lightweight
+SQLite state store.
+   Handles routing logic, session context, agent chaining, fallback handling, and response aggregation in real time.
+   Enabled rapid deployment of new agents by providing a standardized integration contract for all services.
+Impact: Became the backbone of Zain's internal AI ecosystem, enabling all agents below to operate under a single,
+coherent platform.
+Python
+Vanilla JS
+HTML
+Redis
+SQLite
+Custom
+Architecture
+ 02
+Agentic AI — Sales Data Agent
+Autonomous agent converting natural-language questions into executed SQL queries and visual charts
+   Sales employees chat with the agent in plain language; the agent autonomously analyzes intent, generates
+parameterized PL/SQL queries, and executes them securely.
+   Returns results as charts and formatted data — no database access or SQL knowledge needed from end users.
+   Built with strict no-data-exposure controls: the agent never returns raw database dumps.
+   Eliminated manual reporting cycles across multiple business departments.
+Impact: Replaced full manual reporting cycles; adopted across sales, finance, and operations teams.
+Python
+LangChain
+OpenAI
+PL/SQL
+Data Visualization
+
+
+=== PAGE 2 ===
+03
+Marketing Intelligence Agent
+Retrieval agent that monitors competitor offers and generates actionable recommendations
+   Autonomously reads competitor websites to extract current offers, devices, and packages.
+   Compares retrieved competitor data against Zain's live offerings side-by-side.
+   Generates strategic suggestions for new packages, pricing changes, or promotional offers.
+   Enables the marketing team to stay competitive without manual research overhead.
+Python
+LangChain
+OpenAI
+Web Retrieval
+RAG
+ 04
+LinkedIn Talent Hunting Agent
+HR-facing conversational agent that searches LinkedIn for candidates by skill and education
+   HR staff describe the candidate profile they need in natural language — skills, education, experience level.
+   Agent searches LinkedIn and retrieves the top 10 best-matching profiles automatically.
+   Reduces sourcing time drastically compared to manual LinkedIn searches.
+   Supports complex queries combining multiple skill sets and qualifications.
+Python
+LangChain
+OpenAI
+LinkedIn Data
+NLP
+ 05
+Interview Screening Agent
+AI phone screening agent that scores CVs and conducts structured voice interviews
+   Before the interview, the agent scores the candidate's CV against the job requirements and auto-generates tailored
+interview questions.
+   Conducts a conversational phone screening in English with the candidate.
+   Delivers a structured evaluation report to the HR team, accelerating the shortlisting process.
+   Reduces recruiter time spent on early-stage screening rounds.
+Python
+LangChain
+OpenAI
+NLP
+Voice AI
+ 06
+Key Account Manager (KAM) Agent
+Action-capable agent for KAMs to manage and query mobile number operations
+   KAMs interact conversationally to perform operational tasks: check number availability, reassign mobile numbers,
+query account statuses.
+   Agent executes real actions against backend telecom systems via tool calling — not just retrieval.
+   Reduces dependency on manual back-office processes and ticketing systems.
+Python
+LangChain
+OpenAI
+Telecom APIs
+Tool Calling
+ 07
+CRM Testing Agent
+Conversational agent for testing the in-house CRM through natural-language test scenarios
+   QA teams describe test scenarios in plain language; the agent executes them against the new CRM.
+   Accelerates testing cycles for new CRM features without requiring manual test scripting.
+   Captures and reports test outcomes in structured format for QA review.
+Python
+LangChain
+OpenAI
+QA Automation
+CRM
+
+
+=== PAGE 3 ===
+08
+Technical Documentation Generator Agent
+Agent that auto-generates technical documentation at the end of a development cycle
+   Takes project code, architecture notes, and development context as input.
+   Produces structured technical documentation ready for review — reducing the documentation burden on engineers.
+   Standardizes documentation format across all internal AI and software projects.
+Python
+LangChain
+OpenAI
+NLP
+Documentation
+Knowledge & RAG Platform
+ 09
+Botzilla — Enterprise Knowledge Chatbot
+Multi-team RAG chatbot with strict document isolation per team, powered by Qdrant
+   Each team operates in a fully isolated knowledge namespace — a team can only retrieve documents belonging to
+their own corpus, enforced at the vector DB layer.
+   Built on Qdrant as the vector database for fast, scalable semantic search over private document collections.
+   Returns accurate, grounded answers in 5–15 seconds over private enterprise document corpora.
+   Runs entirely within the enterprise-controlled environment — no data leaves the organization.
+   Fully customizable to new teams and document sets without re-engineering the core platform.
+Impact: Deployed across multiple departments, replacing manual document search and enabling self-serve
+knowledge retrieval.
+Python
+LangChain
+OpenAI
+Qdrant
+RAG
+Vector DB
+Platform Engineering & Infrastructure
+ 10
+Reconciliation Pipeline Optimization
+PySpark-based rewrite of enterprise reconciliation pipelines — 8 hours → minutes
+   Identified critical performance bottlenecks in large-scale enterprise reconciliation jobs.
+   Re-architected batch pipelines using PySpark distributed processing, reducing runtime from 8 hours to under 10
+minutes.
+   Improved downstream data reliability for AI workloads and financial reporting systems.
+Impact: Direct contributor to the ~4M JOD (~5.6M USD) in cumulative cost savings delivered at Zain Jordan.
+Python
+PySpark
+Distributed Computing
+Data Engineering
+ BSc Artificial Intelligence — Al-Zaytoonah
+ University (GPA 93.6/100)
+ 5+ years · Python · LangChain · OpenAI ·
+ Azure · GCP
+ ibrahem.yaghi@gmail.com
+
+

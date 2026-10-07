@@ -1,0 +1,117 @@
+=== PAGE 1 ===
+Ibrahim Yaghi 
+Amman, Jordan  |  +962 78 503 1314  |  ibrahem.yaghi@gmail.com  |  linkedin.com/in/ibrahim-yaghi 
+Languages: Arabic (Native), English (Professional Working Proficiency)  
+PROFESSIONAL SUMMARY  
+AI Platform Engineer with 5+ years of experience designing and operating LLM -powered platforms, 
+agentic AI systems, and enterprise -scale automation infrastructure for a Tier -1 telecom. Proven track 
+record of architecting Python -based platform components, agent orchestration framewor ks, and SDK -
+style integrations using LangChain and OpenAI to enable Applied AI teams to ship reliable, secure AI -
+powered applications. Delivered approximately 4M JOD in cost savings at Zain Jordan through scalable AI 
+and automation platforms, including a production agentic AI system with autonomous tool calling and a 
+RAG-based document analysis chatbot. Skilled in agent orchestration, prompt management, tool calling, 
+RAG architectures, distributed data processing (PySpark), and cloud -native AI (Azure, Googl e Cloud, 
+Vertex AI). Awarded Best Digital Transformation Initiative in Telecom (Global Economics 2025) and 
+featured by TM Forum for AI chatbot innovation.  
+CORE SKILLS  
+Programming Languages: Python, SQL, PL/SQL, Java, C#, JavaScript, React 
+AI / LLM Engineering: LangChain, OpenAI, LLaMA, Retrieval-Augmented Generation (RAG), agent 
+orchestration, multi-step AI workflows, prompt engineering, prompt management, tool calling, function 
+calling, memory handling, agentic AI, LLMOps 
+AI Platform & SDKs: Python libraries and SDK design, configuration-driven platform components, model 
+and tool integrations, internal developer platforms, AI observability and evaluation tooling, model 
+performance monitoring 
+Distributed Systems & Data: PySpark, Elasticsearch, distributed data processing, large-scale 
+reconciliation pipelines, platform reliability, scalable architectures 
+Cloud & MLOps: Microsoft Azure (LLMOps), Google Cloud Platform, Vertex AI 
+Automation & Tooling: UiPath, Selenium, enterprise RPA, developer experience and operational tooling 
+Other: Computer Vision, Deep Learning, Neural Networks, Blockchain 
+Leadership: Platform architecture and system design, technical leadership and mentoring, cross-team 
+collaboration, ownership and accountability 
+PROFESSIONAL EXPERIENCE  
+AI Platform & RPA Lead (RPA & AI Division Leader) — Zain Jordan 
+Apr 2022 – Present  |  Amman, Jordan 
+• Architected and operated the organization’s core AI and automation platform, supporting 
+multiple AI agents, LLM-powered services, and enterprise applications used across business, 
+finance, and operations teams. 
+• Led the design of an agent orchestration framework on top of LangChain to support complex 
+multi-step AI workflows, including autonomous user-intent analysis, query generation, tool 
+execution, and visual data response. 
+
+=== PAGE 2 ===
+• Designed reusable Python libraries and configuration-driven platform components (Excel-based 
+runtime configuration) that standardized model integration, prompt management, tool calling, 
+and enterprise data access for non-developer teams. 
+• Built and shipped Agentic AI, a production LLM-powered agent that converts natural-language 
+requests into executed PL/SQL queries and visualizations with zero database access required by 
+end users; eliminated manual reporting cycles for business stakeholders while enforcing strict 
+no-data-exposure controls. 
+• Engineered Botzilla, a Retrieval-Augmented Generation (RAG) document analysis chatbot built 
+with Python, LangChain, and OpenAI; delivered secure 5–15 second response times over private 
+document corpora within an enterprise-controlled environment. 
+• Drove platform architecture decisions, design standards, and best practices covering scalability, 
+reliability, security, and operational performance for all AI services. 
+• Built scalable integration layers connecting internal services and external LLM providers; 
+standardized prompt, tool, and memory components across agents. 
+• Optimized enterprise reconciliation pipelines using PySpark, reducing batch runtime from 8 
+hours to minutes and improving downstream data reliability for AI and reporting workloads. 
+• Established platform observability practices for prompts, traces, and model performance to 
+support evaluation, debugging, and continuous improvement of AI agents. 
+• Delivered approximately 4M JOD (~5.6M USD) in cumulative cost savings over three years 
+through enterprise AI and automation initiatives. 
+• Mentored engineers and partnered with Applied AI and business teams to adopt platform 
+components, prompt frameworks, and agent patterns; led cross-team enablement sessions. 
+Leaders Program Trainee — Tammey (Multi-National Non-Profit) 
+Sep 2021 – Jun 2022  |  Amman, Jordan 
+• Built interactive analytics dashboards using Power BI and Excel Power Query to support internal 
+data-driven decision making. 
+• Managed and transformed multi-source data pipelines for internal reporting and program 
+evaluation. 
+• Developed an end-to-end e-learning and community platform using WordPress, LearnDash, and 
+BuddyPress. 
+Full-Stack Developer — Tammey (Multi-National Non-Profit) 
+Nov 2020 – May 2021  |  Amman, Jordan 
+• Designed and shipped a custom web-based project management system using JavaScript, PHP, 
+and SQL, replacing manual workflows for the program operations team. 
+• Maintained and supported the full-stack infrastructure, including release management and 
+incident response. 
+  
+
+=== PAGE 3 ===
+SELECTED PROJECTS  
+Agentic AI — LLM-Powered Autonomous Agent (Python, LangChain, PL/SQL, OpenAI) 
+Production agent at Zain that autonomously analyzes user intent, generates and executes 
+parameterized SQL queries, and produces visual data responses. Demonstrates agent orchestration, tool 
+calling, and memory handling on a configuration-driven platform. Adopted across multiple departments 
+with strict data-protection guarantees and no end-user database access. 
+Botzilla — RAG Document Analysis Chatbot (Python, LangChain, OpenAI) 
+Enterprise Retrieval-Augmented Generation chatbot for secure document search and Q&A over private 
+document corpora. Returns answers in 5–15 seconds, runs entirely within a controlled environment, and 
+is fully customizable to evolving business needs. 
+Computer Vision Mask Detector — Graduation Project (Python, Deep Learning) 
+Trained and tuned a 5-hidden-layer convolutional neural network on 20,000 labeled images (binary 
+classification) for real-time mask-usage detection at campus entrances during COVID-19. 
+EDUCATION  
+BSc, Artificial Intelligence — Al-Zaytoonah University of Jordan 
+Graduated February 2022  |  GPA: 93.6 / 100 
+CERTIFICATIONS & CONTINUOUS LEARNING  
+• LLMOps with Azure 
+• IBM Machine Learning Professional Certificate (6-course series) 
+• IBM Data Engineering and Machine Learning with Spark 
+• IBM Data Science Orientation 
+• Certified Professional Trainer (CPT) — IAPPD, United Kingdom 
+• Foundations of Data Science and Exponential Tech — IE Business School, Spain 
+• Transformation and Implementation — IE Business School, Spain 
+• Analysis of Competitive Context — IE Business School, Spain 
+• Business Foundations Module — IE Business School, Spain 
+AWARDS & HONORS  
+• Best Digital Transformation Initiative in Telecom — Global Economics, 2025 
+• AI Chatbot work featured by TM Forum 
+• Winner — Zain Creativity and Innovation Competition for Employees 
+• Keynote Speaker — IEEE Robotics Week Jordan, 2025 
+• 2nd Place — National Robotics Olympiad, MENA, 2018 
+• 1st Place — National Robotics Olympiad, Qatar, 2015 
+• 3rd Place — Scientific Research Competition, Qatar, 2015–2016 
+ 
+References available upon request. 
+
